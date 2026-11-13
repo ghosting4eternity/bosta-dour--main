@@ -1,0 +1,6 @@
+{
+  "name": "Bosta Dour: Bounce-Back Edition",
+  "description": "An isometric 2D endless sack-race runner across Bangladesh from Dhaka to Teknaf and Tetulia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
