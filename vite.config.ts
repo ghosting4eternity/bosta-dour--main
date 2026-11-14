@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: './', // relative paths so the build works on itch.io
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
